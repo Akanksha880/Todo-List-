@@ -1,0 +1,54 @@
+.contact {
+  background-color: #f9f5ff; /* a soft lavender background */
+  padding: 30px;
+  border-radius: 12px;
+  max-width: 600px;
+  margin: 50px auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.contact h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.contact p {
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.contact a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
+.contact {
+  background-color: #e6f2ff; /* same light bluish */
+  padding: 30px;
+  border-radius: 12px;
+  max-width: 700px;
+  margin: 50px auto;
+}
+.contact {
+  background-color: #fff4e6;  /* soft light peach */
+  padding: 30px;
+  border-radius: 12px;
+  max-width: 800px;
+  margin: 50px auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact h1 {
+  color: #cc6600;  /* warm orange heading */
+}
+
+.contact p {
+  color: #333;
+  line-height: 1.6;
+}

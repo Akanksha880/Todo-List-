@@ -1,0 +1,125 @@
+.home {
+  background-color: #f4efef; /* soft blueish background */
+  padding: 30px;
+  border-radius: 12px;
+  max-width: 700px;
+  margin: 50px auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.home h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.input-container input {
+  padding: 10px;
+  width: 60%;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.input-container button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  border: none;
+  color: #1b1919;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.input-container button:hover {
+  background-color: #0056b3;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: #ffffff;
+  margin-bottom: 10px;
+  padding: 12px 20px;
+  border-radius: 6px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.timer {
+  font-weight: bold;
+  color: #ff5722;
+  margin-left: 10px;
+}
+
+li button {
+  background-color: #dc3545;
+  border: none;
+  color: #0c0c0c;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+li button:hover {
+  background-color: #a71d2a;
+}
+.home {
+  background-color: #e6f2ff; /* same light bluish */
+  padding: 30px;
+  border-radius: 12px;
+  max-width: 700px;
+  margin: 50px auto;
+}.home {
+  background-color: #f0f7e6;  /* soft light green */
+  padding: 30px;
+  border-radius: 12px;
+  max-width: 800px;
+  margin: 50px auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.home h1 {
+  color: #336600;  /* dark green */
+}
+
+.home input {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+.home button {
+  padding: 8px 12px;
+  background-color: #336600;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.home ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.home li {
+  margin: 10px 0;
+}
+
+.home .timer {
+  color: #555;
+  margin-left: 10px;
+}
